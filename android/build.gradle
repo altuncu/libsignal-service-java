@@ -92,12 +92,12 @@ uploadArchives {
             name 'signal-service-android'
             packaging 'aar'
             description 'Signal Service communication library for Android'
-            url 'https://github.com/WhisperSystems/libsignal-service-java'
+            url 'https://github.com/altuncu/libsignal-service-java'
 
             scm {
-                url 'scm:git@github.com:WhisperSystems/libsignal-service-java.git'
-                connection 'scm:git@github.com:WhisperSystems/libsignal-service-java.git'
-                developerConnection 'scm:git@github.com:WhisperSystems/libsignal-service-java.git'
+                url 'scm:git@github.com:altuncu/libsignal-service-java.git'
+                connection 'scm:git@github.com:altuncu/libsignal-service-java.git'
+                developerConnection 'scm:git@github.com:altuncu/libsignal-service-java.git'
             }
 
             licenses {
