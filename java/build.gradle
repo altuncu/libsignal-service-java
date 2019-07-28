@@ -68,12 +68,12 @@ uploadArchives {
             name 'signal-service-java'
             packaging 'jar'
             description 'Signal Service communication library for Java'
-            url 'https://github.com/WhisperSystems/libsignal-service-java'
+            url 'https://github.com/altuncu/libsignal-service-java'
 
             scm {
-                url 'scm:git@github.com:WhisperSystems/libsignal-service-java.git'
-                connection 'scm:git@github.com:WhisperSystems/libsignal-service-java.git'
-                developerConnection 'scm:git@github.com:WhisperSystems/libsignal-service-java.git'
+                url 'scm:git@github.com:altuncu/libsignal-service-java.git'
+                connection 'scm:git@github.com:altuncu/libsignal-service-java.git'
+                developerConnection 'scm:git@github.com:altuncu/libsignal-service-java.git'
             }
 
             licenses {
@@ -87,6 +87,9 @@ uploadArchives {
             developers {
                 developer {
                     name 'Moxie Marlinspike'
+                }
+                developer {
+                    name 'Enes Altuncu'
                 }
             }
         }
