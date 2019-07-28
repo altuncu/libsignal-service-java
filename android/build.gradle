@@ -112,6 +112,9 @@ uploadArchives {
                 developer {
                     name 'Moxie Marlinspike'
                 }
+                developer {
+                    name 'Enes Altuncu'
+                }
             }
         }
     }
