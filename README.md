@@ -1,6 +1,12 @@
 # signal-service-java
 
-A Java library for communicating via Signal.
+A Java library for communicating via Signal supporting phone number fetch from Blockstack Gaia hub.
+
+## Adding as a dependency to an Android project
+
+To add this library as a dependency to your Android application, insert the following line to your project's `build.gradle` file.
+
+`implementation 'com.github.altuncu:signal-service-android:<VERSION_NUMBER>'`
 
 ## Implementing the Signal Protocol interfaces
 
