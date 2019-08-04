@@ -1,5 +1,7 @@
 # signal-service-java
 
+[![](https://jitpack.io/v/altuncu/libsignal-service-java.svg)](https://jitpack.io/#altuncu/libsignal-service-java)
+
 A Java library for communicating via Signal supporting phone number fetch from Blockstack Gaia hub.
 
 ## Adding as a dependency to an Android project
