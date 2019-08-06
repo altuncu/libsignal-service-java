@@ -1,7 +1,6 @@
 # signal-service-java
 
 [![](https://jitpack.io/v/altuncu/libsignal-service-java.svg)](https://jitpack.io/#altuncu/libsignal-service-java)
-
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.altuncu/signal-service-android/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.altuncu/signal-service-android/)
 
 A Java library for communicating via Signal supporting phone number fetch from Blockstack Gaia hub.
